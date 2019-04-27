@@ -1,6 +1,13 @@
 # <u>Java</u>
 
-[TOC]
+**Contents:**
+- [Introduction](#Introduction)
+- [Strings](#Strings)
+- [BigNumber](#BigNumber)
+- [Data Structures](#Data-Structures)
+- [Object Oriented Programming](#Object-Oriented-Programming)
+- [Exception Handling](#Exception-Handling)
+
 
 ## Introduction
 
