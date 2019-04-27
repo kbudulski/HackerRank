@@ -17,5 +17,5 @@ You can click on the logo above to visit my profile.
 
 | Subject              | Topic |
 | -------------------- | ----- |
-| Language proficiency |       |
+| Language proficiency | [Java](https://github.com/Cassivellaunus/HackerRank/blob/master/LANGUAGE%20PROFICIENCY/Java/README.md)      |
 
