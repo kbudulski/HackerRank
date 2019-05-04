@@ -20,5 +20,5 @@ Please note that database solutions are written using Oracle SQL, following [thi
 | Subject              | Topic                                                        |
 | -------------------- | ------------------------------------------------------------ |
 | Language proficiency | [Java](https://github.com/Cassivellaunus/HackerRank/blob/master/LANGUAGE%20PROFICIENCY/Java/README.md) |
-| Specialized skills   |                                                              |
+| Specialized skills   | [SQL](https://github.com/Cassivellaunus/HackerRank/blob/master/SPECIALIZED%20SKILLS/SQL/README.md) |
 
